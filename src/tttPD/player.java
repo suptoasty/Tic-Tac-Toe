@@ -13,7 +13,7 @@ public class player {
 	}
 
 	public void makeMove(int row, int column) {
-		moves.put(Integer.toString(moveCount), 1);
+		moves.put(Integer.toString(moveCount), (char) 1);
 		return;
 	}
 	

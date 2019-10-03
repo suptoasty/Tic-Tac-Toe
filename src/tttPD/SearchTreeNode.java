@@ -96,7 +96,7 @@ public class SearchTreeNode<E> {
 	
 	public BoardPosition build(board board, int symbol, int emptySpaces) {
 		if(emptySpaces == 0) {
-			System.out.println("CRAP");
+			System.out.println("Failure");
 		}
 		
 		BoardPosition pos = new BoardPosition();

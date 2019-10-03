@@ -8,6 +8,7 @@ import tttPD.board;
 import tttPD.gameManager;
 import tttUI.mainFrame;
 
+// Entry point for the program
 public class Main {
 
 	public static void main(String[] args) {
