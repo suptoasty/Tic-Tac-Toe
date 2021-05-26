@@ -4,6 +4,7 @@ import java.awt.EventQueue;
 
 import javax.swing.JFrame;
 
+// Window class using SwingUI
 public class Window {
 
 	private JFrame frame;
